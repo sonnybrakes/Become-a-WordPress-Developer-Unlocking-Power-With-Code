@@ -7,3 +7,4 @@ javascript
 > First Coding Steps: PHP
 * 3-6 Creating a New Theme
 * 3-7 PHP Functions
+* 3-8 PHP Arrays

@@ -1,29 +1,38 @@
-<!-- 3-7 What is a Function? -->
+<!-- 3-7 What is an Array? -->
 
-<!-- ex. 1 creating a function -->
+<!-- ex. 1 creating a variable-->
 <?php
-  echo 2 + 2;
+  $myName = "Mitch";
 ?>
 
-<!-- ex. 2 calling a function-->
+<p>Hi, my name is <?php echo $myName; ?>.</p>
+
+<!-- ex. 2 an array is a collection of multiple variables -->
 <?php
-  function myFirstFunction() {
-    echo 2 + 2;
+  $names = array('Mitch', 'Karen', 'Maddy', 'Jackie');
+
+?>
+
+<p>Hi, my name is <?php echo $names[1]; ?>.</p>
+
+<!-- ex. 3 while loop -->
+<?php
+  $count =1;
+  while($count <= 20) {
+    echo "<li>$count</li>";
+    $count++;
   }
 
-  myFirstFunction();
 ?>
 
-<!-- ex. 3 creating variables and calling functions with arguments-->
+<!-- ex. 4 while loop array concatination -->
 <?php
-  function greet($name, $colour) {
-    echo "<p>Hi, my name is $name and my favourite colour is $colour.</p>";
+  $names = array('Mitch', 'Karen', 'Maddy', 'Jacky', 'Waldo');
+
+  $count = 0;
+  while($count < count($names)) {
+    echo "<li>Hi, my name is $names[$count].</li>";
+    $count++;
   }
 
-  greet('Mitch', 'purple');
-  greet('Karen', 'orange');
 ?>
-
-<!-- ex. 4 calling WordPress functions with arguments -->
-<h1><?php bloginfo('name'); ?></h1>
-<p><?php bloginfo('description'); ?></p>
