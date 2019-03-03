@@ -1,6 +1,7 @@
-<!-- 4-10 The Famous "Loop" in WordPress -->
+<!-- 4-11 Header and Footer -->
 
 <?php
+  get_header();
 
   while(have_posts()) {
     the_post(); ?>
@@ -9,5 +10,7 @@
     <hr>
   <?php
   }
+  
+  get_footer();
 
 ?>

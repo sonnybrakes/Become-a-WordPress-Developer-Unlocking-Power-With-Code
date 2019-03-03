@@ -1,5 +1,11 @@
+/* 4-11 Header and Footer */
+
 /*
 Theme Name: Michel Frechette
 Author: Michel Frechette
 Version: 1.0
 */
+
+body {
+  color: green;
+}

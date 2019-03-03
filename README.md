@@ -13,3 +13,4 @@ javascript
 ### Section: 4
 > First Coding Steps: PHP
 * 4-10 The Famous "Loop" in WordPress
+* 4-11 Header and Footer
