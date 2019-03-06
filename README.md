@@ -17,3 +17,4 @@ javascript
 * 4-10 The Famous "Loop" in WordPress
 * 4-11 Header and Footer
 * 4-12 Convert Static HTML Template into WordPress
+* 4-13 Quick Note: Avoiding Caching (CSS & JS) During Dev
