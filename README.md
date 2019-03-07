@@ -1,4 +1,4 @@
-<!-- 4-12 Convert Static HTML Template into WordPress -->
+<!-- 5-14 Interior Page Template -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
@@ -18,3 +18,4 @@ javascript
 * 4-11 Header and Footer
 * 4-12 Convert Static HTML Template into WordPress
 * 4-13 Quick Note: Avoiding Caching (CSS & JS) During Dev
+* 5-14 Interior Page Template
