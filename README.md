@@ -1,4 +1,4 @@
-<!-- 5-16 To Echo or Not To Echo -->
+<!-- 5-17 Menu of Child Page Links -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
@@ -21,3 +21,4 @@ javascript
 * 5-14 Interior Page Template
 * 5-15 Parent & Children Pages
 * 5-16 To Echo or Not To Echo
+* 5-17 Menu of Child Page Links
