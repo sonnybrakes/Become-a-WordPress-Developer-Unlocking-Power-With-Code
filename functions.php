@@ -1,4 +1,4 @@
-<!-- 5-14 Interior Page Template -->
+<!-- 5-19 Navigation Menus -->
 
 <?php
 
@@ -12,6 +12,10 @@
   add_action('wp_enqueue_scripts', 'university_files');
 
   function university_features() {
+    register_nav_menu('headerMenuLocation', 'Header Menu Location');
+    register_nav_menu('footerLocationOne', 'footer Location One');
+    register_nav_menu('footerLocationTwo', 'footer Location Two');
+
     add_theme_support('title-tag');
   }
 

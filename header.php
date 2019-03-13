@@ -1,4 +1,4 @@
-<!-- 5-18 A Few Quick Edits / Improvements -->
+<!-- 5-19 Navigation Menus -->
 
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
@@ -16,13 +16,18 @@
           <i class="site-header__menu-trigger fa fa-bars" aria-hidden="true"></i>
           <div class="site-header__menu group">
             <nav class="main-navigation">
-              <ul>
+              <?php
+                wp_nav_menu(array(
+                  'theme_location' => 'headerMenuLocation'
+                ));
+              ?>
+              <!-- <ul>
                 <li><a href="<?php echo site_url('/about-us') ?>">About Us</a></li>
                 <li><a href="#">Programs</a></li>
                 <li><a href="#">Events</a></li>
                 <li><a href="#">Campuses</a></li>
                 <li><a href="#">Blog</a></li>
-              </ul>
+              </ul> -->
             </nav>
             <div class="site-header__util">
               <a href="#" class="btn btn--small btn--orange float-left push-right">Login</a>

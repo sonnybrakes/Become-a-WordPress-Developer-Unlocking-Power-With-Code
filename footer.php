@@ -1,4 +1,4 @@
-<!-- 5-14 Interior Page Template -->
+<!-- 5-19 Navigation Menus -->
 
   <footer class="site-footer">
 
@@ -15,23 +15,33 @@
           <div class="site-footer__col-two">
             <h3 class="headline headline--small">Explore</h3>
             <nav class="nav-list">
-              <ul>
+              <?php
+                wp_nav_menu(array(
+                  'theme_location' => 'footerLocationOne'
+                ));
+              ?>
+              <!-- <ul>
                 <li><a href="<?php echo site_url('/about-us'); ?>">About Us</a></li>
                 <li><a href="#">Programs</a></li>
                 <li><a href="#">Events</a></li>
                 <li><a href="#">Campuses</a></li>
-              </ul>
+              </ul> -->
             </nav>
           </div>
 
           <div class="site-footer__col-three">
             <h3 class="headline headline--small">Learn</h3>
             <nav class="nav-list">
-              <ul>
+              <?php
+                wp_nav_menu(array(
+                  'theme_location' => 'footerLocationTwo'
+                ));
+              ?>
+              <!-- <ul>
                 <li><a href="#">Legal</a></li>
                 <li><a href="<?php echo site_url('/privacy-policy'); ?>">Privacy</a></li>
                 <li><a href="#">Careers</a></li>
-              </ul>
+              </ul> -->
             </nav>
           </div>
         </div>
