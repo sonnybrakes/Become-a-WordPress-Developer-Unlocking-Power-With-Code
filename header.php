@@ -16,11 +16,6 @@
           <i class="site-header__menu-trigger fa fa-bars" aria-hidden="true"></i>
           <div class="site-header__menu group">
             <nav class="main-navigation">
-              <!-- <?php
-                wp_nav_menu(array(
-                  'theme_location' => 'headerMenuLocation'
-                ));
-              ?> -->
               <ul>
                 <li><a href="<?php echo site_url('/about-us') ?>">About Us</a></li>
                 <li><a href="#">Programs</a></li>
