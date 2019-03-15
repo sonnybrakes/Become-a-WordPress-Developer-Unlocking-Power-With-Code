@@ -1,4 +1,4 @@
-<!-- 5-17 Menu of Child Page Links -->
+<!-- 6-20 Blog Listing Page (index.php vs front-page.php) -->
 
 <?php
   get_header();
