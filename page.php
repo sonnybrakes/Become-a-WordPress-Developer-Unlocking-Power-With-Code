@@ -1,4 +1,4 @@
-<!-- 6-20 Blog Listing Page (index.php vs front-page.php) -->
+<!-- 6-21 Blog Continued -->
 
 <?php
   get_header();

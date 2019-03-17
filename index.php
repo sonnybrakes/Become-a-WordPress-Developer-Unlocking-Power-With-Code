@@ -1,4 +1,4 @@
-<!-- 6-20 Blog Listing Page (index.php vs front-page.php) -->
+<!-- 6-21 Blog Continued -->
 
 <?php
 
@@ -17,7 +17,8 @@ get_header(); ?>
 <div class="container container--narrow page-section">
   <?php
     while (have_posts()) {
-    the_post(); ?>
+    the_post();
+    ?>
     <div class="post-item">
       <h2 class="headline headline--medium headline--post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
 
@@ -30,6 +31,7 @@ get_header(); ?>
       </div>
     </div>
   <?php }
+  echo paginate_links();
   ?>
 </div>
 

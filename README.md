@@ -1,4 +1,4 @@
-<!-- 6-20 Blog Listing Page (index.php vs front-page.php) -->
+<!-- 6-21 Blog Continued -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
@@ -25,3 +25,4 @@ javascript
 * 5-18 A Few Quick Edits / Improvements
 * 5-19 Navigation Menus
 * 6-20 Blog Listing Page (index.php vs front-page.php)
+* 6-21 Blog Continued
