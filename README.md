@@ -1,4 +1,4 @@
-<!-- 6-23 Custom Queries -->
+<!-- 6-24 Blog: Few Quick Edits & Improvements -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
