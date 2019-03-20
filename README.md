@@ -1,4 +1,4 @@
-<!-- 6-22 Blog Archives -->
+<!-- 6-23 Custom Queries -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
@@ -27,3 +27,4 @@ javascript
 * 6-20 Blog Listing Page (index.php vs front-page.php)
 * 6-21 Blog Continued
 * 6-22 Blog Archives
+* 6-23 Custom Queries
