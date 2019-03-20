@@ -18,13 +18,16 @@ javascript
 * 4-11 Header and Footer
 * 4-12 Convert Static HTML Template into WordPress
 * 4-13 Quick Note: Avoiding Caching (CSS & JS) During Dev
+### Section: 5
 * 5-14 Interior Page Template
 * 5-15 Parent & Children Pages
 * 5-16 To Echo or Not To Echo
 * 5-17 Menu of Child Page Links
 * 5-18 A Few Quick Edits / Improvements
 * 5-19 Navigation Menus
+### Section: 6
 * 6-20 Blog Listing Page (index.php vs front-page.php)
 * 6-21 Blog Continued
 * 6-22 Blog Archives
 * 6-23 Custom Queries
+* 6-24 Blog: Few Quick Edits & Improvements
