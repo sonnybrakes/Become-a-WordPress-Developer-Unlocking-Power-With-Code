@@ -1,4 +1,4 @@
-<!-- 6-24 Blog: Few Quick Edits & Improvements -->
+<!-- 7-26 Preparing For Automation: What is a Command Line? -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
@@ -36,3 +36,4 @@ javascript
 ### Section: 7
 > Workflow and Automation
 * 7-25 Note on Gulp
+* 7-26 Preparing For Automation: What is a Command Line?
