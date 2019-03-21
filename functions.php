@@ -1,4 +1,4 @@
-<!-- 5-19 Navigation Menus -->
+<!-- 8-30 Custom Post Types -->
 
 <?php
 

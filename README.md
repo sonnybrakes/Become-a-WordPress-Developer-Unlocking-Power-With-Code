@@ -1,4 +1,4 @@
-<!-- 7-29 Workflow and Automation (Part 2) -->
+<!-- 8-30 Custom Post Types -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
@@ -40,3 +40,6 @@ javascript
 * 7-27 Workflow and Automation (Part 1)
 * 7-28 Tip: If Your "localhost:3000" Loads Very Slowly...
 * 7-29 Workflow and Automation (Part 2)
+### Section: 8
+> Events Post Type
+* 8-30 Custom Post Types
