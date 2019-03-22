@@ -1,4 +1,4 @@
-<!-- 6-22 Blog Archives -->
+<!-- 8-31 Displaying Custom Post Types -->
 
 <?php
 

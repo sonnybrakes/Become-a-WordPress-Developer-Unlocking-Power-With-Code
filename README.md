@@ -1,4 +1,4 @@
-<!-- 8-30 Custom Post Types -->
+<!-- 8-31 Displaying Custom Post Types -->
 
 ##   [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
 ```
@@ -43,3 +43,4 @@ javascript
 ### Section: 8
 > Events Post Type
 * 8-30 Custom Post Types
+* 8-31 Displaying Custom Post Types
